@@ -1,3 +1,5 @@
+# Get Escaping
+
 Our website get escaping numerous services related to tours and travel. We have added
 various features in the navbar section such as home, travel packages, gallery, contact us,
 our blogs, etc. The user can only book their trip only if the login into the website using
@@ -22,3 +24,5 @@ The number of foreign tourits visited to India which has given foreign exchange 
 to the Country. Here, we have focused the growth and performance of the Indian tourism
 industry. We have also analized the causal analysis of the Indian tourism for overall
 development of the Indian economy.
+
+Submitted in partial flfillment of the requirements of the Mini-Project 1B Year of Bachelors of Engineering
